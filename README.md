@@ -4,4 +4,4 @@ I am an M.Sc in Astrophysics and currently enrolled in a Computer Science: Data 
 
 ### Spotify Playing 🎧
 
-[<img src="https://pablonavarrob/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/VqTAZZWZQJa64HoZBLx4jQ)
+[<img src="https://vercel.com/pablonavarrob/spotify-now-playing-v2/settings/domains" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/VqTAZZWZQJa64HoZBLx4jQ)
